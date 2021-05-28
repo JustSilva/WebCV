@@ -1,7 +1,7 @@
 import React from "react";
 
 function Skills() {
-    return <div class="skills">
+    return <div class="skills" id="skills">
         <h2>My Skills</h2>
         <div class="skill-row">
             <img class="eye" src="images/eye.png" alt="cybereye" width="150px"></img>

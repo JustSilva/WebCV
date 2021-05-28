@@ -142,4 +142,32 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 100;
+  background: #9DC3C2;
 }
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-cv {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+  float: left;
+  padding-top: 8px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  float: right;
+  padding-top: 15px;
+  padding-right: 30px;
+}
+
