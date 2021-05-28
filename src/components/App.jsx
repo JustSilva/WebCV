@@ -5,6 +5,7 @@ import TopDiv from "./TopDiv";
 import Footer from "./Footer";
 import Contact from "./Contact";
 import Header from "./Header";
+import Projects from "./Projects";
 
 function App() {
    return <div>
@@ -12,6 +13,7 @@ function App() {
        <TopDiv />
        <Introduction />
        <Skills />
+        <Projects />
        <Contact />
        <Footer />
     </div>
