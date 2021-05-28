@@ -1,7 +1,7 @@
 import React from "react";
 
 function Header() {
-    return <header>
+    return <header className="sticky">
         <h2>Test</h2>
     </header>
 }
