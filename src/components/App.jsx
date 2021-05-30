@@ -6,6 +6,7 @@ import Footer from "./Footer";
 import Contact from "./Contact";
 import Header from "./Header";
 import Projects from "./Projects";
+import CarouselPage from "./Test";
 
 function App() {
    return <div>
@@ -13,8 +14,9 @@ function App() {
        <TopDiv />
        <Introduction />
        <Skills />
-        <Projects />
+       <Projects />
        <Contact />
+    
        <Footer />
     </div>
 }
